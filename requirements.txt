@@ -1,0 +1,16 @@
+asgiref==3.6.0
+Django==4.1.7
+django-filter==22.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+future==0.18.3
+importlib-metadata==6.0.0
+Markdown==3.4.1
+mysqlclient==2.1.1
+psycopg2==2.9.5
+PyJWT==2.6.0
+pytz==2022.7.1
+serializers==0.2.4
+sqlparse==0.4.3
+tzdata==2022.7
+zipp==3.15.0
